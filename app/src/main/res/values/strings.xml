@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">projectKelasC</string>
+    <string name="person">Person</string>
+    <string name="text1">R O G</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Match Parent</string>
+    <string name="button4">Right</string>
+    <string name="button5">Left</string>
+    <string name="view">Select Your Laptop</string>
+    <string name="view2">Nama:</string>
+    <string name="view3">Phone:</string>
+    <string name="view4">Address:</string>
+    <string name="name">  </string>
+</resources>
